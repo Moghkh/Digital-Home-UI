@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<title>Occupancy (3in)</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="height=device-height, initial-scale=1">
+<link href="style.css" rel="stylesheet" />
+</head>
+<body>
+
+
+<div class="header">
+  <h1>Wi-Fi (3 online)</h1>
+</div>
+
+
+<div class="topnav">
+	<p>
+		<a href="index"><button class="button1"><i class="fa fa-home"></i></button></a>
+		<a href="index"><button class="button1"> <i class="fa fa-mail-reply"></i></button></a>
+		<button class="button1"> <i class="fa fa-mobile"></i></button>
+		<button class="button1"> <i class="fa fa-globe"></i></button>
+		<button class="button1"> <i class="fa fa-gear"></i></button>
+		<button class="button1"> <i class="	fa fa-shield"></i></button>
+	</p>
+</div>
+
+<div class="column">
+	<table>
+  		<tr>
+    		<th>Device</th>
+    		<th>Status</th>
+    		<th>Access point</th>
+    		<th><button class="button4"> <i class="fa fa-cogs"></i></button></th>
+  		</tr>
+  		<tr>
+    		<td>Peter mobile</td>
+    		<td>(connected)</td>
+    		<td>(living Room)</td>
+    		<th><button class="button4"> <i class="fa fa-wrench"></i></button></th>
+  		</tr>
+  		<tr>
+    		<td>Martha mobile</td>
+    		<td>(connected)</td>
+    		<td>(Bed Room)</td>
+    		<th><button class="button4"> <i class="fa fa-wrench"></i></button></th>
+  		</tr>
+  		<tr>
+    		<td>Tom mobile</td>
+    		<td>(off)</td>
+    		<td>(unknown)</td>
+    		<th><button class="button4"> <i class="fa fa-wrench"></i></button></th>
+  		</tr>
+  		<tr>
+    		<td>Jenny mobile</td>
+    		<td>(off)</td>
+    		<td>(unknown)</td>
+    		<th><button class="button4"> <i class="fa fa-wrench"></i></button></th>
+  		</tr>
+  		<tr>
+    		<td>Guest mobile</td>
+    		<td>(connected)</td>
+    		<td>(living Room)</td>
+    		<th><button class="button4"> <i class="fa fa-wrench"></i></button></th>
+  		</tr>
+	</table>
+		<h1>...</h1>
+</div>
+<div class="footer">
+  	<p>
+  		<a href="Good Morning"><button class="button2"><h2>Good Morning</h2></button></a>
+  		<button class="button2"><h2>Good Night</h2></button>
+  		<button class="button2"><h2>Welcome Back</h2></button>
+  		<h1>...</h1>
+  	</p>
+</div>
+<div class="footer2">
+  <p>
+  		<a href="Movie Night"><button class="button2"><h2>Movie Night</h2></button></a>
+  		<button class="button2"><h2>Studying Time</h2></button>
+  		<h1>...</h1>
+  	</p>
+</div>
+
+</body>
+</html>
